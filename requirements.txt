@@ -1,0 +1,5 @@
+# This file is intentionally left blank.
+# The application uses only Python's standard libraries (tkinter, json, xml, etc.),
+# which are included with every standard Python installation.
+#
+# No external packages need to be installed via pip.
